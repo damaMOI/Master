@@ -1,0 +1,247 @@
+.tp{
+	background-color: white;
+	
+}
+.nav-link{
+	font-size: 20px;
+	font-family: cursive;;
+}
+
+
+.en{
+	margin-top: -17px;
+	display:flex;
+	background-color: white;
+	width: 	100%;position: fixed;
+	height: 138px;
+	border: 1px solid whitesmoke;
+}
+.i1{
+	
+	
+	width: 17%;
+	height: 138px;
+}
+.p1{margin-top: 43px;
+	width: 100%;
+	font-size: 34px;
+	color: navy;
+	
+	text-align: center;
+}
+
+.li{
+	margin-left: 1px;
+	display: flex;
+	background-color: whitesmoke;
+	font-family: cursive;
+	margin-top: 15px;
+}
+.a{
+	font-size: 17px;
+	width: 30%;
+}
+
+.p2{
+	width: 25%;
+	margin-top: 50px;
+	font-family: cursive;
+}
+
+.i7{
+	height: 610px;
+	width: 100%;
+	background-image: url(Slide_1920x860CampagneFil.jpg);
+	background-size: cover;
+	animation: animate 50s infinite;
+	margin-top:-1px;
+
+}
+@keyframes animate{
+	20%{background-image: url(cid-mars-2018.jpg);}
+	40%{background-image: url(red-haired-woman-with-businessman-in-glasses.jpg);}
+	60%{background-image: url(business-plan-1.jpg);}
+	80%{background-image: url(the-business-case.png);}
+	100%{background-image: url(Slide_1920x860CampagneFil2.jpg);}
+}
+
+
+.p5{
+	display: flex;
+	margin-left: 5px;
+	height: 320px;
+}
+.i2{
+	font-size: 40px;
+	color: white;
+	margin-top: -190px;
+	margin-left: 40px;
+	font-family: monospace;
+}
+.spinner-grow{
+	color: white;
+}
+.a1{
+	display: flex;
+	width: 100%;
+	
+}
+.a2{
+	
+	width: 33.33%;
+	text-align: center;
+	transition: background-color 1s ease;
+	padding: 50px;
+}
+.a3{
+	color: blue;
+	font-family:serif;
+	font-size: 20px;
+}
+.a2:hover{
+	color: white;
+	background-color: lightseagreen;
+}
+.a4:hover{
+	color: white;
+	background-color: lightseagreen;
+}
+.a4{
+	
+	width: 33.33%;
+	text-align: center;
+	transition: background-color 1s ease;
+	padding: 50px;
+}
+
+.i10{
+	height: 200px;
+	width: 17%;
+	margin-left: 13%;
+	background-image: url(Assurances.jpg);
+	
+}
+.i4{
+	height: 200px;
+	width: 17%;
+	margin-left: 20px;
+	background-image: url(Banque_Finance.jpg);
+}
+.i5{
+	height: 200px;
+	width: 17%;
+	margin-left: 20px;
+	background-image: url(Technologies_1.jpg);
+}
+.i6{
+	height: 200px;
+	width: 17%;
+	margin-left: 20px;
+	background-image: url(Immobilier_8.jpg);
+}
+.v1{
+	text-align: center;
+	background-color: teal;
+	font-size: 20px;
+	color: white;
+	width: 100%;
+	margin-top: 170px;
+
+}
+.v2{
+	text-align: center;
+	background-color: teal;
+	font-size: 20px;
+	color: white;
+	width: 100%;
+	margin-top: 170px;
+}
+.v3{
+	display: flex;
+	width: 100%;
+
+}
+.u1{
+	width: 100%;
+	height: 500px;
+
+}
+.y11{
+	width: 33.34%;
+}
+.u2{
+	width: 33.33%;
+	color: white;
+	background-color: navy;
+	padding: 50px;
+}
+.u3{
+	background-color: seagreen;
+	padding: 50px;
+	font-size: 26px;
+	width: 33.34%;
+	height: 500px;
+	color: white;
+}
+.y6{
+	width: 70%;
+	margin-top:50px;
+	margin-left: 150px;
+}
+.z5{
+	text-align: center;
+	color: blue;
+	font-family: cursive;
+	font-size: 30px;
+
+
+}
+.u4{
+	color: white;
+	font-size: 25px;
+	background-color: indigo;
+	height: 120px;
+	width: 100%;
+	text-align: center;
+}
+.y8{
+	background-color: silver;
+	display: flex;
+	font-size: 25px;
+	color: rebeccapurple;
+	width: 100%;
+}
+.p13{
+	margin-top: 10px;
+	margin-left: 20px;
+	width: 50%;
+
+}
+.y7{
+	
+	display: flex;
+}
+.y9{
+	border: 1px solid gray;
+	height: 30px;
+	margin-top: 25px;
+	width: 80%;
+	margin-left: 20px;
+}
+.y10{
+	
+	background-color: blue;
+	border: 1px solid blue;
+	height: 30px;
+	margin-top: 25px;
+	width: 50%;
+	font-size: 20px;
+	color: white;
+}
+.k1{
+	background-image: url(nlxl-piet-hein-eek-papier-bleu-fond-decran-bleu-sc.jpg);
+	color: white;
+}
+.nav-link{
+	color: white;
+}
